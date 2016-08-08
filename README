@@ -1,0 +1,8 @@
+This is GUI that allows the user to manually segment food items in a set of test images (extension .PNM). The program was developed as part of a semester project for ECE 6930.
+
+In order to implement active contours:
+1. Select the On/Off option in the Contour menu after loading the image.
+2. To implement a Shrink Contour, left click and drag around the object to initialize the contour points. Fora balloon contour, right click inside the object to intialize a set of contour points.
+3. To start the contour, click 'R' for the shrink model and 'B' for the balloon model.
+
+A report has been included going over the details and shortcomings.
